@@ -18,6 +18,8 @@ vi hash
 docker run -it bernadinm/sha512_verify $(cat pass) $(cat hash)
 ```
 
+## Alternative Method
+
 If you wanted your password on your console for any reason, you can run this below:
 
 ```bash
