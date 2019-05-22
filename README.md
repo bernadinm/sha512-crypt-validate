@@ -27,3 +27,5 @@ vi hash
 ```bash
 docker run -it bernadinm/sha512_verify "$(cat pass)" "$(cat hash)"
 ```
+
+You can generate your password here: https://github.com/bernadinm/sha512-crypt
